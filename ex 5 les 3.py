@@ -9,5 +9,4 @@ def summary():
        print(f'Сумма до конца строки {result_sum}')
    return result_sum
 
-
 print('Cумма до спец символа $: ', summary())
